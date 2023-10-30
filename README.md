@@ -30,6 +30,6 @@
 
 Your Name - [@junezstorm](https://twitter.com/junezstorm) - desvelasquez19@gmail.com
 
-Project Link: [https://github.com/storm](https://github.com/st0rmmv)
+Project Link: [https://github.com/st0rmmv](https://github.com/st0rmmv)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
