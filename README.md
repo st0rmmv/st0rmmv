@@ -28,7 +28,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@junezstorm](https://twitter.com/junezstorm) - desvelasquez19@gmail.com
+Storm - [@junezstorm](https://twitter.com/junezstorm) - desvelasquez19@gmail.com
 
 Project Link: [https://github.com/st0rmmv](https://github.com/st0rmmv)
 
